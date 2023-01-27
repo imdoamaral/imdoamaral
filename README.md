@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Brazil</h3>
 
 
-<p align="center">Currently working on https://www.visaojr.com.br</p>
+<p align="center">Currently working on https://www.vale.com</p>
 
 <br>
 <br>
