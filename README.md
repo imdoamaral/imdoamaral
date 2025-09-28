@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A passionate developer/data analyst from Brazil.</h3>
+<h3 align="center">A passionate web developer/data analyst from Brazil.</h3>
 
 <!-- <p align="center">Currently working on https://www.vale.com</p> -->
 
